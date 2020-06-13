@@ -14,4 +14,3 @@ Belajar HTML, CSS dan Javascript Native
 Buat Project Pertama
 Belajar BigData
 Belajar API
-Dan Lain - Lain
