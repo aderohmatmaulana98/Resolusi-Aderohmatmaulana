@@ -12,4 +12,6 @@ Belajar Image Processing
 Brlajar Framework selain Laravel dan CI
 Belajar HTML, CSS dan Javascript Native
 Buat Project Pertama
+Belajar BigData
+Belajar API
 Dan Lain - Lain
